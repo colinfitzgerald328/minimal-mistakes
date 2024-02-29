@@ -2,7 +2,7 @@ repo_name: colinfitzgerald328/minimal-mistakes
 report_id: 4f6165ad6cc6d9c26735377596a2adba
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:20:01+00:00'
+timestamp: '2024-02-29T19:07:43+00:00'
 requested_by: iBug
 provider: github
 branch: master
@@ -43,7 +43,7 @@ tools:
   last_updated_by: Michael Rose
   last_updated_on: 2020-03-16 14:45:33.000000000 Z
 - name: Bundler
-  description: 'A consistent environment for tracking and installing  gems and versions '
+  description: A consistent environment for tracking and installing  gems and versions
   website_url: http://bundler.io
   open_source: false
   hosted_saas: false
